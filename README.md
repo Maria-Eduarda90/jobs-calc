@@ -36,12 +36,6 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 <h1 align="center">
   <img alt="NextLevelWeek" title="#modal" src="./public/images/home.png" />
 </h1>
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#home" src="./public/images/profile.png" />
-</h1>
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#filter" src="./public/images/job.png" />
-</h1>
 
 ## 🔖 Layout
 
